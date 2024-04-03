@@ -24,9 +24,9 @@ kb.diode_orientation = DiodeOrientation.COL2ROW
 
 kb.keymap = [
     [xxxxx, xxxxx, KC.MUTE,
-     KC.N1, KC.N2, KC.N3,
+     KC.N7, KC.N8, KC.N9,
      KC.N4, KC.N5, KC.N6,
-     KC.N7, KC.N8, KC.N9
+     KC.N1, KC.N2, KC.N3
      ]
 ]
 
