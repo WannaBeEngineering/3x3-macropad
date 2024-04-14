@@ -62,7 +62,7 @@ but if it's a bit hard to follow, or flawed in any way, please let me know via t
 ![10 kmktocp](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/92e5b64b-b063-47b7-9e7a-006a8112535c)
 ![11 codetocp](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/9b11e8f2-8c7f-442b-afdb-a9a7c3e758d7)
 
-- Once thats done, click into your Circuitpy drive and verify your files are there.
+- Once thats done, click into your CIRCUITPY drive and verify your files are there.
 
 ![12 checkfiles](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/4a610fb1-e407-454b-8801-080583568f8b)
 
