@@ -7,7 +7,9 @@ but if it's a bit hard to follow, or flawed in any way, please let me know via t
 
 **1:** The latest version of circuit python, available here https://circuitpython.org/board/waveshare_rp2040_zero/
 - Follow the link, then download the .UF2 file by clicking the big purple button
-  
+
+![1 uf2 download](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/4b70e3a0-4237-45cb-bec1-074be9acae2b)
+
 ![1 uf2 download](https://github.com/WannaBeEngineering/testing_area/assets/165714796/b1e01394-2d74-4bca-859c-ef9478c3c5ea)
 
 ---------------------------------------------------------------------------------------------------------
