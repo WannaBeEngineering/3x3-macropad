@@ -10,15 +10,13 @@ but if it's a bit hard to follow, or flawed in any way, please let me know via t
 
 ![1 uf2 download](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/4b70e3a0-4237-45cb-bec1-074be9acae2b)
 
-![1 uf2 download](https://github.com/WannaBeEngineering/testing_area/assets/165714796/b1e01394-2d74-4bca-859c-ef9478c3c5ea)
-
 ---------------------------------------------------------------------------------------------------------
   
 **2:** The latest and greatest KMK firmware, available here https://github.com/KMKfw/kmk_firmware
 - Click the green button labeled “Code”
 - Then select the bottom option “Download ZIP”
   
-![2 kmk download](https://github.com/WannaBeEngineering/testing_area/assets/165714796/7acc8ffb-6362-4da4-b126-c676240a3c91)
+![2 kmk download](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/9d53793d-32ff-44c2-af8c-f09a5dc07f95)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -26,7 +24,7 @@ but if it's a bit hard to follow, or flawed in any way, please let me know via t
 - Click the green button labeled “Code”
 - Then select the bottom option “Download ZIP”
   
-![3 codedownload](https://github.com/WannaBeEngineering/testing_area/assets/165714796/1a259a7e-ce4a-4e14-a6ba-79573ef75ef9)
+![3 codedownload](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/7914ef2e-f7d4-4087-b14f-d2dfe47743be)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -34,44 +32,43 @@ but if it's a bit hard to follow, or flawed in any way, please let me know via t
 
 **1:** Go ahead and unzip both folders, as seen in the two pictures below. After unzipping them, feel free to de-clutter by deleting the original zipped files. 
 
-![5 unzip code](https://github.com/WannaBeEngineering/testing_area/assets/165714796/553ca175-8065-4bcc-9a0d-839c1f5e6f16)
-![4 unzip kmk](https://github.com/WannaBeEngineering/testing_area/assets/165714796/33b1559a-9518-4696-830c-1b09d13d1a9b)
+![5 unzip code](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/3ba33c04-e322-4d5e-ba0b-43014f68cc5b)
+![4 unzip kmk](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/ec969e9a-796b-49c6-a958-8666368121bc)
 
 - Once you've done that, your downloads folder should look like this
 
-![6  unzipped files](https://github.com/WannaBeEngineering/testing_area/assets/165714796/885d4016-5117-40cb-8975-b9e8693c98c4)
+![6  unzipped files](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/7c6e7810-1724-403f-8ad3-51a86df9139f)
 
 ---------------------------------------------------------------------------------------------------------
 
 **2:** Now you're ready to plug in your device. While holding down the "Boot" button on your RP2040-Zero (as seen below), plug in your macropad.
 
-![7 boot button](https://github.com/WannaBeEngineering/testing_area/assets/165714796/3689458b-a0a4-4f8d-b545-9128899bd41f)
+![7 boot button](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/573ad20e-98d5-420c-9f5d-a24c72beddf3)
 
 ---------------------------------------------------------------------------------------------------------
 
 3: Once the macropad connects to your computer, look for the drive "RPI-RP2" on the left side. Once you verify it's there, go ahead and drag the Circuitpython .UF2 file directly onto it.
 
-![8 uf2 to rpi](https://github.com/WannaBeEngineering/testing_area/assets/165714796/a8b11d16-4637-402f-b53d-7a9ad9ca7f29)
+![8 uf2 to rpi](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/05e9e422-3df5-4685-aae2-d2f5cd522d4e)
 
-
-- After completing this step, the RPI drive will dismount, then remount under the name "CIRCUITPY", as seen in the picture below. 
-
-![9 circuitpyreboot](https://github.com/WannaBeEngineering/testing_area/assets/165714796/b0aec058-1df5-487f-84b2-2c851bcec1d4)
+- After completing this step, the RPI drive will dismount, then remount under the name "CIRCUITPY", as seen in the picture below.
+  
+![9 circuitpyreboot](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/b85f2a2c-15b4-44e1-8a15-1c9853142e02)
 
 ---------------------------------------------------------------------------------------------------------
 
 **4:** In a similar fashion to how you loaded the .UF2 file, you'll now do the same with the KMK folder, and the code.py file from our Github.
 
-![10 kmktocp](https://github.com/WannaBeEngineering/testing_area/assets/165714796/844bd40b-f417-4d1b-945f-9dc09064d112)
-![11 codetocp](https://github.com/WannaBeEngineering/testing_area/assets/165714796/be6d6b7d-34ad-4344-bd8e-bffd585d1a18)
+![10 kmktocp](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/92e5b64b-b063-47b7-9e7a-006a8112535c)
+![11 codetocp](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/9b11e8f2-8c7f-442b-afdb-a9a7c3e758d7)
 
 - Once thats done, click into your Circuitpy drive and verify your files are there.
 
-![12 checkfiles](https://github.com/WannaBeEngineering/testing_area/assets/165714796/c0f82776-4f32-4aed-8560-86616680b8e9)
+![12 checkfiles](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/4a610fb1-e407-454b-8801-080583568f8b)
 
 **5:** Testing your macropad. Now that everything's in place, you can press the "Reset" button on your RP2040-Zero, and check the functionality. 
 
-![13 reset_test](https://github.com/WannaBeEngineering/testing_area/assets/165714796/1549597e-a407-485a-b875-9dc6bd872e96)
+![13 reset_test](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/b4bf63a9-3fd1-400f-b83e-ce7dd77012a2)
 
 - Open up your notepad app, or whatever you'd like and give the macropad a go. Left to right, bottom to top (as a regular number pad) the keys are programmed as
   numbers 1-9, the rotary encoder will control volume, and the rotary encoder switch will mute/unmute. All of which can be customized, as detailed below. 
@@ -83,14 +80,14 @@ On the KMK Github, you can find a whole plethora of options for your macropad. Y
 the "keys overview" page on the KMK Github, and you can find the alternate options on the left side directory. 
 https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md
 
-![14 keyoverview](https://github.com/WannaBeEngineering/testing_area/assets/165714796/32e999f3-35e0-45fb-9666-3a5f1fb67c55)
+![14 keyoverview](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/61f9cf9a-e7c4-48d9-b19e-7323c18f775e)
 
 - You can use any text editor you'd like, including something as basic as your Notepad app. My personal recommendation would be Thonny (https://thonny.org/), as I find that the best for
 programming microcontrollers. 
 - Pictured below is the code.py file provided, here you can see the keymaps. To customize your macropad, you'll simply swap out
 the existing inputs for the ones you'd like.
 
-![13 keymap (1)](https://github.com/WannaBeEngineering/testing_area/assets/165714796/3e66839b-7436-4d74-82d7-9b4c9e64a98a)
+![13 keymap (1)](https://github.com/WannaBeEngineering/3x3-macropad/assets/165714796/cc032c64-4d24-43f7-b844-02db5afa7552)
 
 ---------------------------------------------------------------------------------------------------------
 
